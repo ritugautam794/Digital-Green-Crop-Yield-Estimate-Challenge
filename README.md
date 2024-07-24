@@ -28,8 +28,9 @@ A crop yield model could revolutionise Indian agriculture, and serve as a global
 
 
 ## Hyperparameter Tuning
-![image](https://github.com/user-attachments/assets/9101e855-9db8-402c-bcca-dca14d3c72ba)
-![image](https://github.com/user-attachments/assets/61cf8f6c-dcef-4f05-8cd6-94444a1c9c52)
+![image](https://github.com/user-attachments/assets/e7fd1134-1460-4306-a6f6-31faaa806770)
+![image](https://github.com/user-attachments/assets/b8a769f5-f4bd-43e8-87a8-898793eef583)
+
 
 
 ## Best Model Insights
