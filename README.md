@@ -19,8 +19,8 @@ A crop yield model could revolutionise Indian agriculture, and serve as a global
 
 
 ## Model Building Process
-![image](https://github.com/user-attachments/assets/af02ae60-5f55-4ef4-b9c2-c7378249c1bf)
-![image](https://github.com/user-attachments/assets/77040926-37c9-4a35-b2fd-d3bc60a4834a)
+![image](https://github.com/user-attachments/assets/85bd663f-449c-41bf-9af8-c866adb26efe)
+
 
 
 ## Models Comparison
