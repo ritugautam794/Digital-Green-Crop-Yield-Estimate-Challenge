@@ -10,3 +10,36 @@ Smallholder farmers are crucial contributors to global food production, and in I
 The objective of this challenge is to create a machine learning solution to predict the crop yield per acre of rice or wheat crops in India. Our goal is to empower these farmers and break the cycle of poverty and malnutrition.
 
 A crop yield model could revolutionise Indian agriculture, and serve as a global model for smallholder farmers. Accurate yield predictions empower smallholder farmers to make informed planting and resource allocation decisions, reducing poverty and malnutrition and improving food security. As climate change intensifies, adaptive farming practices become crucial, making precise yield predictions even more valuable. Solutions developed here can drive sustainable agriculture and ensure a stable food supply for the world's growing population. This challenge offers data scientists and machine learning enthusiasts a unique chance to make a real difference in vulnerable populations' lives while advancing global food security in a concise, impactful way.
+
+## Data Cleaning and Pre-processing
+![image](https://github.com/user-attachments/assets/0da2d263-4cc2-4eac-a229-a4bde61a56f1)
+
+## Feature Engineering
+![image](https://github.com/user-attachments/assets/6ce497a3-c4cd-4073-81fc-7264f7e55409)
+
+
+## Model Building Process
+![image](https://github.com/user-attachments/assets/af02ae60-5f55-4ef4-b9c2-c7378249c1bf)
+![image](https://github.com/user-attachments/assets/77040926-37c9-4a35-b2fd-d3bc60a4834a)
+
+
+## Models Comparison
+![image](https://github.com/user-attachments/assets/cf68b3a3-4d45-4a50-b122-1c85142ba5e7)
+
+
+## Hyperparameter Tuning
+![image](https://github.com/user-attachments/assets/9101e855-9db8-402c-bcca-dca14d3c72ba)
+![image](https://github.com/user-attachments/assets/61cf8f6c-dcef-4f05-8cd6-94444a1c9c52)
+
+
+## Best Model Insights
+
+![image](https://github.com/user-attachments/assets/8d11eda9-4eee-4728-a0fa-54c8827c5b27)
+![image](https://github.com/user-attachments/assets/bb6f453b-5eef-4ed2-8976-362d49c23904)
+
+
+## Summary 
+
+
+
+
